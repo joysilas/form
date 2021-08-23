@@ -1,0 +1,24 @@
+input[type="text"] {
+    margin: 15px 0;
+}
+select {
+    margin: 15px 0;
+}
+.paragraph {
+    text-align: center;
+}
+
+.invalid {
+    width: 100%;
+    color: red;
+    font-size: 0.8rem;
+}
+
+.hide {
+    display: none;
+}
+/* form{
+    align-self: center;
+    width: 40%;
+    margin: 0 auto;
+} */
